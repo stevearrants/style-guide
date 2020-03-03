@@ -1,0 +1,1 @@
+﻿# Jitterbit Web Terminology

@@ -1,0 +1,1 @@
+﻿# Use `alt-text` with Images
