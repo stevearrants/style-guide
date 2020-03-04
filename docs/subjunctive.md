@@ -1,6 +1,7 @@
 ﻿# Subjunctive Mood
 The subjunctive mood expresses doubt. Jitterbit software either does or doesn't do something. Work to avoid the
 following subjunctive mood verbs in your writing:
+
 - should
 - would
 - could
