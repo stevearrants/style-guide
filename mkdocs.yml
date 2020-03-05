@@ -8,9 +8,7 @@ nav:
     - A Word about Jitterbit Docs: jdocs.md
 - Terms and Usage: 
     - Cloud Studio Terminology: csterms.md
-    - Jitterbit Product Terminology: jitterbitprod.md
-    - Jitterbit Web Terminology: jitterbitweb.md
-    - Avoid Complex Words: avoidcomplexwords.md
+    - Jitterbit Terminology Glossary: glossary.md
     - Usage Dictionary: usagedict.md
 - Voice and Tone: 
     - Tone: tone.md
@@ -23,6 +21,7 @@ nav:
 - Grammar and Word Choice:
     - Abbreviations: abbrev.md
     - Acronyms: acronym.md
+    - Avoid Complex Words: avoidcomplexwords.md
     - Capitalization: caps.md
     - Contractions: contractions.md
     - Example Names and Domains: examples.md
@@ -42,8 +41,7 @@ nav:
     - Formatting Quick Reference: formatqr.md
     - Bold Type: bold.md
     - Italics: italic.md
-    - Line Breaks: linebreaks.md
-    - Monospaced Font: mono.md
+    - Monospaced Text: mono.md
 - Images: 
     - Best Practices for Images: imagebest.md
     - Image Types: imagetypes.md
