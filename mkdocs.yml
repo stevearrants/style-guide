@@ -1,13 +1,18 @@
-site_name: Jitterbit Writing Style Guide
+site_name: Jitterbit Style Guide
+
 nav:
-  - Welcome:
+ -  Welcome: 
     - Welcome to the Jitterbit Style Guide: welcome.md
     - Latest Changes to the Jitterbit Style Guide: changes.md
-  - A Word about Jitterbit Docs:
+- A Word about Jitterbit Docs: 
     - A Word about Jitterbit Docs: jdocs.md
-  - Usage Dictionary: 
+- Terms and Usage: 
+    - Cloud Studio Terminology: csterms.md
+    - Jitterbit Product Terminology: jitterbitprod.md
+    - Jitterbit Web Terminology: jitterbitweb.md
+    - Avoid Complex Words: avoidcomplexwords.md
     - Usage Dictionary: usagedict.md
-  - Voice and Tone: 
+- Voice and Tone: 
     - Tone: tone.md
     - Use Plain Language: plainlanguage.md
     - Active Voice: active.md
@@ -15,51 +20,50 @@ nav:
     - Second Person: second.md
     - Anthropomorphisms: anthro.md
     - Subjunctive Mood: subjunctive.md
-  - Grammar and Word Choice:
+- Grammar and Word Choice:
     - Abbreviations: abbrev.md
-    - Acronyms and Initialisms: acronym.md
+    - Acronyms: acronym.md
+    - Capitalization: caps.md
     - Contractions: contractions.md
     - Example Names and Domains: examples.md
     - Plurals in Parentheses: pluralparen.md
     - Possessives: possessives.md
     - Pronouns: pronouns.md
     - Standard English Spelling and Phrases: standard.md
-  - Accessibility: 
+- Accessibility: 
     - Write for All: everyone.md
     - Include alt-text: alt-text.md
-  - Capitalization: 
-    - Capitalization: caps.md
-  - Content Structure: 
+- Content Structure: 
     - Document Names, Topic Titles, and Section Headings: doctitlehed.md
     - Write a Task: writetask.md
     - Include Prerequisites in a Task: prereq.md
     - Write a Task Block: taskblock.md
-  - Formatting Text: 
+- Formatting Text: 
     - Formatting Quick Reference: formatqr.md
     - Bold Type: bold.md
     - Italics: italic.md
     - Line Breaks: linebreaks.md
     - Monospaced Font: mono.md
-  - Images: 
+- Images: 
     - Best Practices for Images: imagebest.md
     - Image Types: imagetypes.md
-  - Links:
+- Links:
     - Best Practices for Links: linksbp.md
     - Download Links: dllinks.md
     - Jitterbit Links: jitlinks.md
     - Third-party Links: thirdpartylinks.md
-  - Lists: 
+- Lists: 
     - Best Practices for Lists: listsbp.md
     - Bulleted Lists: bulletlist.md
     - Numbered Lists: numberlist.md
     - Definition Lists: deflist.md
-  - Notes, Tips, Cautions, and Warnings: 
+- Notes, Tips, Cautions, and Warnings: 
     - Best Practices for Notes, Tips, Cautions, and Warnings: notetipcautionwarn.md
     - Notes: notes.md
     - Cautions: cautions.md
     - Tips: tips.md
     - Warnings: warnings.md
-  - Numbers: 
+- Numbers: 
     - Numerals or Words?: numorword.md
     - Dates: dates.md
     - Commas and Decimals: commadec.md
@@ -69,7 +73,7 @@ nav:
     - Phone Numbers: phone.md
     - Time: time.md
     - Versions: versions.md
-  - Punctuation and Symbols: 
+- Punctuation and Symbols: 
     - Show Symbols in Text: symbols.md
     - Ampersand: ampersand.md
     - Apostrophe: apostrophe.md
@@ -83,28 +87,22 @@ nav:
     - Quotation Marks: quotationmark.md
     - Slashes: slashes.md
     - Special Characters: specialchar.md
-  - Jitterbit Terminology and Trademarks: 
-    - Jitterbit Product Terminology: jitterbitprod.md
-    - Jitterbit Web Terminology: jitterbitweb.md
+- Jrademarks:  
     - Trademark Attribution: tm.md
-  - Tables: 
+- Tables: 
     - Best Practices for Tables: tablesbp.md
-  - Third-party Information: 
+- Third-party Information: 
     - Documenting Third-party Products: thirdparties.md
-  - UI Text: 
+- UI Text: 
     - UI Text Style Guidelines: uiguidelines.md
-  - Additional Resources: 
+- Additional Resources: 
     - Other Sources: othersources.md
+# Uses this script to do tooltips https://github.com/lsaether/md-tooltips
+markdown_extensions:
+     - mdtooltips
 
-
-theme: 
-  name: material
-  highlightjs: true
-  hljs languages:
-    - yaml
-    - rust
-
-
+extra_css:
+    - css/tooltips.css
 
 theme: 
   name: readthedocs

@@ -1,6 +1,6 @@
 ﻿# Plurals in Parentheses
-Avoid using a lowercase *s* or *es* in parentheses &ndash; *(s)* or *(es)*, after a noun to indicate both
-singular and plural. Choose the best option for your document. In most cases, using the plural works
+Avoid using a lowercase *s* or *es* in parentheses &ndash; *(s)* or *(es)*, after a noun to indicate bot  
+singular and plural. Choose the best option for your document. In most cases, using the plural works  
 best for understanding the sentence.
 
 If it's important to include both singular and plural, trying including the phrase *one or more*.

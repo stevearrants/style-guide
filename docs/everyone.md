@@ -71,8 +71,8 @@ Here are some tips for using image:
 - Don't rely on color to convey the message of the image. Use a combination of colors, shapes, patterns, explanatory text,
 and labels instead.
 - Ensure your image meets the contrast ratio for users with visual disabilities. See
-  [WebAIM Contrast Checker](https://webaim.org/resources/contrastchecker/).
-- Always include `alt-text`. For guidance on writing `alt-text`, see [Include alt text](alt-text.md).
+  https://webaim.org/resources/contrastchecker/ on the WebAIM website.
+- Always include alt text. For guidance on writing alt text, see Include alt text.
 - Lead into an image with a description of the content and the purpose of the image that makes the image meaningful.
   For more information, see [Best Practices: Images](imagebest.md) .
 
@@ -83,12 +83,12 @@ dialogue and important sound effects. If your video covers important visual deta
 ##  Tables
 Tables are effective at organizing and presenting information, so keep tables as simple as possible.Tables with
 bulleted or numbered lists or with merged cells present problems for screen readers. Use a non-breaking space
-instead of a blank in an empty cell. Screen readers correctly recognize it as empty. See
+instead of a blank in an empty cell. Screen readers won't skip over the cell, causing confusion. See
 [Best Practices: Tables](tablesbp.md).
 
 ##  Lists
-Use simple lists. Use parallel construction for list items. Use one item or idea for a single list item. Consistent
-patterns and simple lists won't cause problems for screen readers or confusion for readers with disabilities. See
+Use simple lists. Use parallel construction for list items. Use one item or idea for a single list item. COnsistent
+patterns and simples lists won't cause problems for screen readers or confusion for readers with disabilities. See
 [Best Practices: Lists](listbp.md) for more information.
 
 ## Linking

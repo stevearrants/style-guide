@@ -21,7 +21,7 @@ and complex diagrams, include adequate surrounding text so you don't place too m
  include a simple sentence in the `alt-text` that refers to this descriptive text. Use a complete sentence to lead
  into the image, using a colon as punctuation.
 
-### Alt text  
+ ### Alt text  
  When you're writing alt text for an image:
 
 - Describe the meaning of the image rather than what you see.
@@ -36,4 +36,5 @@ and complex diagrams, include adequate surrounding text so you don't place too m
 Here are some examples of good usage.
 
 ### Screenshot of an activity step:
-![This screenshot shows the options needed to complete Step 1 of the Snowflake Query activity.](snowflake-query-activity-1.png)
+![This screenshot shows the options needed to complete Step 1 of the Snowflake Query activity. ](./assets/snowflake-query-activity-1.png)
+
