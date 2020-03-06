@@ -1,5 +1,5 @@
 ﻿# Welcome
-The Jitterbit Writing Style Guide is the writing style reference for Jitterbit documentation. It is for anyone who  
+The Jitterbit Writing Style Guide is the writing style reference for Jitterbit documentation. It is for anyone who
 writes or edits customer-facing content. Refer to the Jitterbit Writing Style Guide when you develop content for
 Jitterbit documentation or write UI text for a Jitterbit product.
 

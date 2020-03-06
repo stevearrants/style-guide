@@ -17,14 +17,17 @@ Jargon and complex terminology are terms that are specific to a company, softwar
 
 Here are some examples of how to translate jargon into plain language:
 
-**Jargon**|**Plain language**
------|-----
-Do a Snowflake GET.|Use a Snowflake GET activity.
-Use Jitterbit's out-of-the-box settings.|Use the default settings.
-You can deploy Private Agents on-prem.|You can deploy a Private Agent on-premises.
+### Jargon
+* Do a Snowflake GET.
+* Use Jitterbit's out-of-the-box settings.|Use the default settings.
+* You can deploy Private Agents on-prem.|You can deploy a Private Agent on-premises.
+
+### Plain Language
+* Use a Snowflake GET activity.
+* Use the default settings.
+* You can deploy a Private Agent on-premises.
 
 Use these tips to help you avoid jargon in your writing:
-
 * Keep in mind your audience's level of knowledge.
 * Consider if the user needs to know the term to understand the documentation.
 * Refer to the [Usage dictionary](usagedict.md) for examples of words and phrases that are unnecessarily complex and their alternatives. 

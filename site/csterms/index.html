@@ -9,7 +9,7 @@
   
   
   <link rel="shortcut icon" href="../img/favicon.ico">
-  <title>Anthropomorphisms - Jitterbit Style Guide</title>
+  <title>Cloud Studio Terminology - Jitterbit Style Guide</title>
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
 
   <link rel="stylesheet" href="../css/theme.css" />
@@ -18,8 +18,8 @@
   
   <script>
     // Current page data
-    var mkdocs_page_name = "Anthropomorphisms";
-    var mkdocs_page_input_path = "anthro.md";
+    var mkdocs_page_name = "Cloud Studio Terminology";
+    var mkdocs_page_input_path = "csterms.md";
     var mkdocs_page_url = null;
   </script>
   
@@ -60,8 +60,20 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Terms and Usage</span></p>
-                <ul>
-                    <li class="toctree-l1"><a class="reference internal" href="../csterms/">Cloud Studio Terminology</a>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Cloud Studio Terminology</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#general">General</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#project-index">Project Index</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#project-designer">Project Designer</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#design-component-palette">Design Component Palette</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#scripts-and-transformations">Scripts and Transformations</a>
+    </li>
+    </ul>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../glossary/">Jitterbit Terminology Glossary</a>
                     </li>
@@ -69,7 +81,7 @@
                     </li>
                 </ul>
                 <p class="caption"><span class="caption-text">Voice and Tone</span></p>
-                <ul class="current">
+                <ul>
                     <li class="toctree-l1"><a class="reference internal" href="../tone/">Tone</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../plainlanguage/">Use Plain Language</a>
@@ -80,13 +92,7 @@
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../second/">Second Person</a>
                     </li>
-                    <li class="toctree-l1 current"><a class="reference internal current" href="./">Anthropomorphisms</a>
-    <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#correct">Correct</a>
-    </li>
-    <li class="toctree-l2"><a class="reference internal" href="#incorrect">Incorrect</a>
-    </li>
-    </ul>
+                    <li class="toctree-l1"><a class="reference internal" href="../anthro/">Anthropomorphisms</a>
                     </li>
                     <li class="toctree-l1"><a class="reference internal" href="../subjunctive/">Subjunctive Mood</a>
                     </li>
@@ -281,11 +287,11 @@
     
       
         
-          <li>Voice and Tone &raquo;</li>
+          <li>Terms and Usage &raquo;</li>
         
       
     
-    <li>Anthropomorphisms</li>
+    <li>Cloud Studio Terminology</li>
     <li class="wy-breadcrumbs-aside">
       
     </li>
@@ -296,21 +302,57 @@
           <div role="main">
             <div class="section">
               
-                <h1 id="anthropomorphisms">Anthropomorphisms</h1>
-<p>Anthropomorphisms give human characteristics to inanimate objects. Avoid giving systems, services, or other
-inanimate object the characteristics of people.</p>
-<h3 id="correct">Correct</h3>
-<ul>
-<li>The <strong>Get</strong> activity retrieves data from the source.</li>
-<li>This activity processes the data.</li>
-</ul>
-<h3 id="incorrect">Incorrect</h3>
-<ul>
-<li>The <strong>Get</strong> activity tells the source retrieve the data.</li>
-<li>This activity handles the data.</li>
-</ul>
-<p>There are times when using an anthropomorphism is the best way to deliver the information.That's true of most<br />
-rules! Be judicious in breaking the rules!</p>
+                <h2 id="cloud-studio-terminology-guidelines">Cloud Studio Terminology Guidelines</h2>
+<p>This is an internal document intended to help us refer to Cloud Studio
+consistently and reinforce that terminology for both internal users and
+customers. The external documents with full definitions and diagrams are
+available at <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+User+Interface">Cloud Studio User
+Interface</a>
+and <a href="https://success.jitterbit.com/display/CS/Cloud+Studio+Terminology">Cloud Studio
+Terminology</a>.</p>
+<p><strong>NOTE:</strong> Shortened forms should be used only in context. Do not use unless the
+reference is obvious.</p>
+<h3 id="general">General</h3>
+<hr />
+<p><strong>project</strong>: A collection of one or more workflows that comprise and execute an integration use case.</p>
+<p><strong>project component</strong> or (shorter) <strong>component</strong>: The discrete building blocks of a project. Some components, including activities, scripts, and transformations, can be added to operations that are executed as a sequence of steps. Other components can be used in support of those operations, such as variables, schedules, file schemas, notifications, and plugins. Operations themselves are also project components.
+Do not use the terms <strong>operation component</strong>, <strong>workflow component</strong> or <strong>design component</strong>.</p>
+<p><strong>workflow</strong>: A collection of operations used as a tool to help segregate different parts of the project for the convenience of the user.</p>
+<p><strong>operation</strong>: The smallest unit within a workflow that is independently executed on an agent and recorded by Harmony. Operations define what an integration should do and when it should be done.</p>
+<h3 id="project-index">Project Index</h3>
+<p><strong>project index</strong> or (shorter) <strong>index</strong>: The page that provides a listing of all your Cloud Studio projects. Currently the landing page for Cloud Studio. Does not include Design Studio projects.</p>
+<p><strong>project index card view</strong> or (shorter) <strong>card view</strong>: One of two views for displaying projects in the project index. This view displays the projects as cards.Currently the default view. </p>
+<p><strong>project index cards</strong> or (shorter) <strong>project cards</strong>, <strong>index cards</strong>, or <strong>cards</strong>: The project index card view displays projects as cards that can be flipped over to reveal details about the project.</p>
+<p><strong>project index list view</strong> or (shorter) <strong>list view</strong>: One of two views for displaying projects in the project index. This view displays the projects in a table.</p>
+<h3 id="project-designer">Project Designer</h3>
+<p><strong>project designer</strong> or (shorter) <strong>designer</strong>: The design interface that displays after opening a project, including all three parts: project pane, design canvas, and design component palette. 
+Do not use the terms <strong>operation designer</strong> or <strong>workflow designer</strong>.</p>
+<p><strong>project pane</strong> or (shorter) <strong>pane</strong>: The area on the left of the project designer that contains the project name, environment name, actions menu, and <strong>Workflows</strong> and <strong>Components</strong> tabs. </p>
+<p><strong>project navigator</strong> or (shorter) <strong>navigator</strong>: The part of the project pane containing the <strong>Workflows</strong> and <strong>Components</strong> tabs, including the search and filter capabilities.</p>
+<p><strong>project navigation tree</strong> or (shorter) <strong>navigation tree</strong> or <strong>tree*: The tree within either the </strong>Workflows<strong> or </strong>Components** tab.</p>
+<p><strong>Workflows</strong> tab: One of two tabs available within the project navigator, focusing on individual workflows, their operations, and the steps used to execute those operations.</p>
+<p>| <strong>Components</strong> tab: One of two tabs available within the project navigator, showing all project components and identifying whether they are used in support of an operation. </p>
+<p><strong>design canvas</strong> or (shorter) <strong>canvas</strong>: The central area of the project designer serving as the primary workspace where you visually design your integrations. Do not use the terms <strong>project canvas</strong>, <strong>workflow canvas</strong>, or <strong>operation canvas</strong>.</p>
+<p><strong>design canvas elements</strong> or (shorter) <strong>canvas elements</strong>, <strong>design elements</strong>: Anything that is directly visible on the canvas outside of an operation, such as an email component or operation action lines.</p>
+<p><strong>operation steps</strong> or (shorter) <strong>steps</strong> or (longer) <strong>steps of an operation</strong>: The discrete components that make up an operation and are represented by component blocks (scripts, activities, transformations).Do not use the term <strong>operation components*. If you are referring to components used in support of an operation, state so explicitly or use the term </strong>project components**.)</p>
+<hr />
+<p><strong>design component palette</strong> or (shorter) <strong>component palette</strong>, <strong>design palette</strong>, or <strong>palette</strong>: The area on the right of the project designer that provides access to project components that can be used on the design canvas. Do not use the term <strong>connectivity palette</strong>. Currently, this palette contains only one tab providing access to connectivity resources. As this will be expanded on in the future, we should avoid referring to this as a connectivity **palette.</p>
+<h3 id="design-component-palette">Design Component Palette</h3>
+<p>-
+<strong>Connectivity</strong> tab: The tab within the design component palette that provides access to connectivity resources. Within this tab, connectors are first configured to create connections. Activities associated with those connections can then be added to operations on the design canvas and configured as sources or targets. An endpoint refers to a specific connection and its activities.
+Currently there is only one tab. If you have an issue referring to a tab when multiple tabs are present, reword to avoid this reference. For example: <em>the design component palette provides access to connectivity resources</em>. </p>
+<p><strong>connector</strong>: Provides the interface for entering user-provided input such as credentials to create an authenticated connection. The <strong>Connectors</strong> filter shows the types of connectors that can be configured. In addition, you can create custom connectors using Connector Builder or the Connector SDK.</p>
+<p><strong>connection</strong>: Authenticated access to a data resource that has been configured using a connector. The <strong>Endpoints</strong> filter shows these configured connections. Existing connections can be edited by double-clicking on the connection in the palette.</p>
+<p><strong>activity</strong>: An interaction with a connection that can be configured with user-provided input such as data structures that represent the "request" and "response" schemas for that action. The <strong>Endpoints</strong> filter shows the configured connections, which can be clicked to reveal the types of activities that can be added to an operation. Those activities are then able to be dragged to operations on the design canvas, where they can be configured by double-clicking on the activity within the operation. Configured activities can act as sources (providing data within an operation) or targets (receiving data within an operation).</p>
+<p><strong>endpoint</strong> A specific connection and its activities, which are added to an operation and then configured as sources or targets within the operation.</p>
+<h3 id="scripts-and-transformations">Scripts and Transformations</h3>
+<p><strong>script</strong>: Scripts, written in either Jitterbit Script or JavaScript, provide the flexibility and power to transform data, perform calculations, or perform logic validation beyond simple field mapping.</p>
+<p><strong>transformation</strong>: A project component that is used as a step in an operation to map or <em>transform</em> inputs to a resulting output by moving data, cleaning data, or applying business logic. A transformation consists of source and target schemas that have been defined in the transformation and the transformation mapping that generates the output</p>
+<p><strong>transformation mapping</strong>: A transformation mapping consists of target fields or nodes and their corresponding scripts. These scripts may contain references to source fields or nodes or to project components, use functions, or contain other valid script logic. A mapping does <em>not</em> include target fields that are not mapped.</p>
+<p><strong>script component palette</strong> or (shorter) <strong>component palette</strong>, <strong>script palette</strong>, <strong>palette</strong>: The area on the right of the script and script mode transformation configuration screens that provides access to functions and project components that can be used within scripts. The script palette on the transformation screen includes access to an additional tab, <strong>Source Objects</strong>.
+Refer to each tab by its appropriate name, as labeled in the product. </p>
+<p><strong>mapping mode</strong>: A display mode for viewing or editing a transformation. This mode provides a visual overview of the mapping and the basic tools to perform the mapping. This is the default mode.</p>
+<p><strong>script mode</strong>:  A display mode for viewing or editing a transformation. This mode provides detailed views of fields and advanced tools for adding scripts to the mapping.</p>
               
             </div>
           </div>
@@ -318,10 +360,10 @@ rules! Be judicious in breaking the rules!</p>
   
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
       
-        <a href="../subjunctive/" class="btn btn-neutral float-right" title="Subjunctive Mood">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../glossary/" class="btn btn-neutral float-right" title="Jitterbit Terminology Glossary">Next <span class="icon icon-circle-arrow-right"></span></a>
       
       
-        <a href="../second/" class="btn btn-neutral" title="Second Person"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../jdocs/" class="btn btn-neutral" title="A Word about Jitterbit Docs"><span class="icon icon-circle-arrow-left"></span> Previous</a>
       
     </div>
   
@@ -347,10 +389,10 @@ rules! Be judicious in breaking the rules!</p>
     <span class="rst-current-version" data-toggle="rst-current-version">
       
       
-        <span><a href="../second/" style="color: #fcfcfc;">&laquo; Previous</a></span>
+        <span><a href="../jdocs/" style="color: #fcfcfc;">&laquo; Previous</a></span>
       
       
-        <span style="margin-left: 15px"><a href="../subjunctive/" style="color: #fcfcfc">Next &raquo;</a></span>
+        <span style="margin-left: 15px"><a href="../glossary/" style="color: #fcfcfc">Next &raquo;</a></span>
       
     </span>
 </div>

@@ -1,0 +1,43 @@
+percent
+period
+quotation marks
+slashes
+special characters
+trademark attribution
+best practices for tables.
+documenting third-party links
+Ui guidelines
+other sources
+usage dictionary
+second person
+Document names, topic titles, and section headings
+write a task
+include prerequisites in a task
+write a task block
+image types
+best practices links
+download links
+jitterbit links
+third-party links
+bulleted lists
+numbered lists
+notes
+tips
+cautions
+warnings
+numerals or words
+dates
+commas and decimals
+fractions
+measurements
+numerical ranges
+phone numbers
+time
+versions
+show symbols in texxt
+ampersands
+brackets
+colon
+commas
+dashes
+parentheses
