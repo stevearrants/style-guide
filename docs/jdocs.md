@@ -4,7 +4,7 @@ includes step-by-step instructions, conceptual content, enablement information,
 references, troubleshooting pages, use cases, and product tutorials.
 
 Every page and every topic must have a clear focus on the user. By providing relevant
-information that guides a reader through a process or goal, our documents help users become
+information that guides a reader, our documents help users become
 productive and confident when they use our software and services.
 
 To support this goal, Jitterbit documentation follows these principles:
@@ -41,8 +41,8 @@ needs to achieve their goal.
 to do. Link thoughtfully to supporting material or additional information.
 
 ## Straightforward
-Users don't read a documentation from start to finish. They look titles and keywords matching
-their problem or question, and then they scan the content for  information or examples.
+Users don't read documentation from start to finish. They look for titles and keywords matching
+their problem or question. They scan content for information or examples.
 Jitterbit documentation has descriptive titles and tasks written in straightforward, plain
 language.
 
@@ -54,9 +54,8 @@ Apply the following guidelines to help keep our documentation straightforward:
 Their experience with English varies.
 
 For more information about writing in Jitterbit tone, see [Tone](tone.md). For help on topic
-titles, see [ManuDocument Names, Topic Titles, and Section Headings](doctitlehed.md).
+titles, see [Document Names, Topic Titles, and Section Headings](doctitlehed.md).
 
 ## Rich in examples
-Users look for examples that illustrate new concepts or complex procedures. 
-
-**TK**
+Users look for examples that illustrate new concepts or complex procedures. Look for use cases
+and examples provided by Engineering and Product. 

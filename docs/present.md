@@ -14,6 +14,6 @@ Use these:
 
 Instead of these:
 
-- Click the **Save** icon. Data Loader will save your changes.
+- Click the **Open** icon. Data Loader opens the file contents.
 - While working, Cloud Studio will warn you if you have made an error.
 - When you click **Submit**, Cloud Studio will validate and save your work before continuing.

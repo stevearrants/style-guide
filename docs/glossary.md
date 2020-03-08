@@ -715,7 +715,7 @@ reached [end of
 life](https://success.jitterbit.com/display/DOC/End-of-Life+Policy) in April
 2018.
 
-Addendum A: List of Updated Terminologies
+### Updated Terminologies List
 -----------------------------------------
 
 | **Current Terminology**                                  | **Previous Terminology**           | **Impact** |
@@ -728,25 +728,27 @@ Addendum A: List of Updated Terminologies
 | OpenAPI 2.0 API Documentation                          | Swagger Documentation            |          |
 | OpenAPI 2.0 API Specification                          | Swagger Specification            |          |
 
+
+
 ## Jitterbit Product Terms
 
-| Jitterbit Messaging Terminology                                                              |
+### Jitterbit Messaging Terminology
+| Current Terminology                              | Previous Terminology \(if any\)           |
 |--------------------------------------------------|-------------------------------------------|
-| **Current Terminology**                          | **Previous Terminology (if any)**         |
-| Business-to-Business (B2B) Integration           |                                           |
-| Business Process Automation (BPA)                |                                           |
-| Robotic Process Automation (RPA)                 |                                           |
-| Business Process Management (BPM)                |                                           |
-| Continuous Integration (CI)                      |                                           |
-| Continuous Delivery (or Deployment) (CD)         |                                           |
-| Enterprise Service Bus (ESB)                     |                                           |
+| Business\-to\-Business \(B2B\) Integration       |                                           |
+| Business Process Automation \(BPA\)              |                                           |
+| Robotic Process Automation \(RPA\)               |                                           |
+| Business Process Management \(BPM\)              |                                           |
+| Continuous Integration \(CI\)                    |                                           |
+| Continuous Delivery \(or Deployment\) \(CD\)     |                                           |
+| Enterprise Service Bus \(ESB\)                   |                                           |
 | Hub/ ELA Integration Model                       |                                           |
-| Internet of Things (IoT) Integration             |                                           |
+| Internet of Things \(IoT\) Integration           |                                           |
 | Jitterbit Assurance                              |                                           |
 | Jitterbit TAM Service                            |                                           |
 | Orchestration                                    |                                           |
-| Root Cause Analysis (RCA)                        |                                           |
-| Rough Order Magnitude (ROM)                      |                                           |
+| Root Cause Analysis \(RCA\)                      |                                           |
+| Rough Order Magnitude \(ROM\)                    |                                           |
 | Jitterbit Integration Personas                   |                                           |
 | API Consumer                                     |                                           |
 | Internal API Consumer                            |                                           |
@@ -768,7 +770,7 @@ Addendum A: List of Updated Terminologies
 | Linux Private Agent                              |                                           |
 | Windows Private Agent                            |                                           |
 | Harmony API Gateway                              |                                           |
-| Private API Gateway, Harmony Private API Gateway | On-Premise API Gateway                    |
+| Private API Gateway, Harmony Private API Gateway | On\-Premise API Gateway                   |
 | Harmony Backend Services                         |                                           |
 | Harmony Design Repository                        |                                           |
 | Harmony Messaging Services                       |                                           |
@@ -783,33 +785,36 @@ Addendum A: List of Updated Terminologies
 | API Debug Mode                                   |                                           |
 | API Gateway                                      |                                           |
 | API Governance                                   |                                           |
-| API Management (APIM)                            |                                           |
+| API Management \(APIM\)                          |                                           |
 | API Rate Limit                                   |                                           |
 | Developer Portal                                 |                                           |
 | Portal Manager                                   |                                           |
 | Portal                                           |                                           |
 | Jitterbit API                                    |                                           |
-| OpenAPI 2.0 API Documentation                    | Swagger Documentation                     |
+| OpenAPI 2\.0 API Documentation                   | Swagger Documentation                     |
 | OpenAPI Specification                            | Swagger Specification                     |
-| Open Data (OData) Protocol                       |                                           |
-| Real-time/Evented vs. Near Real-time             |                                           |
+| Open Data \(OData\) Protocol                     |                                           |
+| Real\-time/Evented vs\. Near Real\-time          |                                           |
 | Jitterbit Harmony Citizen Integrator             |                                           |
 | Jitterbit Harmony Citizen Integrator             |                                           |
 | Citizen Integrator Persona                       |                                           |
 | Jitterbit Harmony Management Console             |                                           |
-| Management Console                               | Web Management Console (WMC)              |
+| Management Console                               | Web Management Console \(WMC\)            |
 | Jitterbit Harmony Data Loader                    |                                           |
-| *Current Terminology*                            | Previous Terminology (if any)             |
+| Current Terminology                              | Previous Terminology \(if any\)           |
 | Jitterbit Harmony Data Loader                    | Salesforce Data Loader, Cloud Data Loader |
 | Jitterbit Version 5                              |                                           |
-| Jitterbit Version 5                              | V5, Version 5.0, 5.0, etc.                |
+| Jitterbit Version 5                              | V5, Version 5\.0, 5\.0, etc\.             |
+
 
 ## Jitterbit Seasons
 
-Dating of releases follows these seasons:
+Jitterbit doesn't follow a calendar year for releases. Instead, us dates seasons as follows
 
-| **Season**            | **Dates**                         | **Example/Pattern** |
-| Spring *current-year* | From March 1 to May 31            | Spring 2018         |
-| Summer *current-year* | From June 1 to August 31          | Summer 2018         |
-| Fall *current-year*   | From September 1 to November 30   | Fall 2018           |
-| Winter *next-year*    | From December 1 to February 28/29 | Winter 2019         |
+| Season              | Dates                             | Example     |
+|---------------------|-----------------------------------|-------------|
+| Spring current year | From March 1 to May 31            | Spring 2020 |
+| Summer current year | From June 1 to August 31          | Summer 2020 |
+| Fall current year   | From September 1 to November 30   | Fall 2019   |
+| Winter current year | From December 1 to February 28/29 | Winter 2019 |
+

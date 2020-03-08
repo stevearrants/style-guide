@@ -1,6 +1,6 @@
 ﻿# Pronouns
 Pronouns replace nouns. When you use pronouns in your writing, make sure that the pronoun correctly refers to the
-*antecedent*, the noun it replaces.
+noun it replaces.
 
 ## Gender-neutral pronouns
 Be inclusive and don't make assumptions about sex or gender. When you write Jitterbit documentation, avoid using
@@ -16,7 +16,7 @@ third-person-plural pronouns when you refer to a person of unspecified gender. D
 
 
 ## Personal pronouns
-Use the second-person pronoun,*you*. Avoid first-person pronouns, such as *I*, *our*, *us*, and *we*. They're
+Use the second-person pronoun, *you*. Avoid first-person pronouns, such as *I*, *our*, *us*, and *we*. They're
 acceptable when you respond directly to a user in email or another response.
 
 ## Relative pronouns
@@ -25,14 +25,12 @@ acceptable when you respond directly to a user in email or another response.
 In a sentence, *that* introduces an essential clause. If you remove  *that* and the clause that follows,
 the sentence doesn't make sense.
 
-### Correct
-- For the directory, provide the path that you want Design Studio to use as a working directory.
+Correct: For the directory, provide the path that you want Design Studio to use as a working directory.
 
 *Which* introduces a nonessential clause. If you remove *which* and the clause that follows, the sentence
 still makes sense, although it is less detailed.
 
-### Correct
-- Cloud Studio uses the `jitterbit.conf` file, which is essential for proper operation.
+Correct: Cloud Studio uses the `jitterbit.conf` file, which is essential for proper operation.
 
 When referring to a person, use *who* instead of *that*.
 
@@ -40,7 +38,6 @@ When referring to a person, use *who* instead of *that*.
 Avoid ambiguous references between a pronoun and its antecedent. Vague pronouns include *this*, *that*,
 *which*, and *it*. Replace the vague pronoun with a noun to assure clarity.
 
-### Correct
-- Set `WritetoFile` to true.
-### Incorrect
-- Set it to true.
+Correct: Set `WritetoFile` to true.
+
+Incorrect: Set it to true.

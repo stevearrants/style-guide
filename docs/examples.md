@@ -1,5 +1,5 @@
 ﻿# Example Names and Domains
-If you need to create a fictitious name, email address, domain name, phone number, or IP address in your docs, create  
+If you need to create a fictitious name, email address, domain name, phone number, or IP address in your docs, create
 an example that adheres to the following guidance.
 
 ## Names
@@ -11,6 +11,7 @@ Don't use a fictional character that's currently in copyright, your own name, th
 family members in an example.
 
 Here are some examples of good names to use:
+
 - Don Adams
 - Lisa DiLeo
 - Wanda Olsen

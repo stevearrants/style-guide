@@ -10,6 +10,8 @@ The types of capitalization styles referenced are as follows:
 
 ## Titles and Heading
 * Use title case. For example, **Component Dependencies, Deletion, and Removal**.
-* Don't capitalize articles (a, an, the), coordinating conjunctions (and, but, or, nor), the "to" in an infinitive, and prepositions (with, to, for, in, from).
+* Don't capitalize articles (a, an, the), coordinating conjunctions (and, but, or, nor), the "to" in an infinitive,
+and prepositions (with, to, for, in, from) unless they start a sentence.
 * For hyphenated words, capitalize the first element and the subsequent elements unless they are
-articles, prepositions, and coordinating conjunctions. 
+articles,
+prepositions, and coordinating conjunctions. 

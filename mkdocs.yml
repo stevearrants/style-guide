@@ -9,7 +9,7 @@ nav:
 - Terms and Usage: 
     - Cloud Studio Terminology: csterms.md
     - Jitterbit Terminology Glossary: glossary.md
-    - Usage Dictionary: usagedict.md
+    - Avoid Complex Words: avoidcomplexwords.md
 - Voice and Tone: 
     - Tone: tone.md
     - Use Plain Language: plainlanguage.md
@@ -21,7 +21,6 @@ nav:
 - Grammar and Word Choice:
     - Abbreviations: abbrev.md
     - Acronyms: acronym.md
-    - Avoid Complex Words: avoidcomplexwords.md
     - Capitalization: caps.md
     - Contractions: contractions.md
     - Example Names and Domains: examples.md
@@ -30,13 +29,11 @@ nav:
     - Pronouns: pronouns.md
     - Standard English Spelling and Phrases: standard.md
 - Accessibility: 
-    - Write for All: everyone.md
+    - Write for All Users: everyone.md
     - Include alt-text: alt-text.md
 - Content Structure: 
     - Document Names, Topic Titles, and Section Headings: doctitlehed.md
-    - Write a Task: writetask.md
-    - Include Prerequisites in a Task: prereq.md
-    - Write a Task Block: taskblock.md
+    - Writing Procedures: writeproc.md
 - Formatting Text: 
     - Formatting Quick Reference: formatqr.md
     - Bold Type: bold.md
@@ -85,7 +82,7 @@ nav:
     - Quotation Marks: quotationmark.md
     - Slashes: slashes.md
     - Special Characters: specialchar.md
-- Jrademarks:  
+- Jitterbit Trademarks:  
     - Trademark Attribution: tm.md
 - Tables: 
     - Best Practices for Tables: tablesbp.md

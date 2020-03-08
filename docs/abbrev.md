@@ -6,10 +6,5 @@ familiar to nonnative speakers. Instead, use precise language and state what you
 
 Write abbreviations for keyboard shortcuts using initial capitalization, plus ( + ) signs, no spaces, and no periods.
 
-### Correct
-- Ctrl+Alt+Del
-### Incorrect
-- Ctrl - alt - del
-- Ctrl + Alt + Del
 
 You can abbreviate units of measurement in text. See [Measurements](measurements.md).

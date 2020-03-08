@@ -1,5 +1,5 @@
 ﻿# Plurals in Parentheses
-Avoid using a lowercase *s* or *es* in parentheses &ndash; *(s)* or *(es)*, after a noun to indicate both
+Avoid using a lowercase *s* or *es* in parentheses &ndash; *(s)* or *(es)* &ndash; after a noun to indicate both
 singular and plural. Choose the best option for your document. In most cases, using the plural works
 best for understanding the sentence.
 

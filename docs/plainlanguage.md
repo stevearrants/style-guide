@@ -30,4 +30,4 @@ Here are some examples of how to translate jargon into plain language:
 Use these tips to help you avoid jargon in your writing:
 * Keep in mind your audience's level of knowledge.
 * Consider if the user needs to know the term to understand the documentation.
-* Refer to the [Usage dictionary](usagedict.md) for examples of words and phrases that are unnecessarily complex and their alternatives. 
+* Refer to the [Avoid Complex Words](avoidcomplexwords.md) for examples of words and phrases that are unnecessarily complex and their alternatives. 

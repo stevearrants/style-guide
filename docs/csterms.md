@@ -89,7 +89,7 @@ referring to components used in support of an operation, state so explicitly or 
 in the future, we should avoid referring to this as a connectivity **palette.
 
 ### Design Component Palette
--
+
 **Connectivity** tab: The tab within the design component palette that provides access to
 connectivity resources. Within this tab, connectors are first configured to create connections. Activities associated with those connections can then be added to operations on the design
 canvas and configured as sources or targets. An endpoint refers to a specific connection and
