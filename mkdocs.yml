@@ -35,7 +35,7 @@ nav:
     - Document Names, Topic Titles, and Section Headings: doctitlehed.md
     - Writing Procedures: writeproc.md
 - Formatting Text: 
-    - Formatting Quick Reference: formatqr.md
+#   - Formatting Quick Reference: formattingqr.md
     - Bold Type: bold.md
     - Italics: italic.md
     - Monospaced Text: mono.md
@@ -44,14 +44,10 @@ nav:
     - Image Types: imagetypes.md
 - Links:
     - Best Practices for Links: linksbp.md
-    - Download Links: dllinks.md
-    - Jitterbit Links: jitlinks.md
-    - Third-party Links: thirdpartylinks.md
+    - Link Types: dllinks.md
 - Lists: 
     - Best Practices for Lists: listsbp.md
-    - Bulleted Lists: bulletlist.md
-    - Numbered Lists: numberlist.md
-    - Definition Lists: deflist.md
+    - Bulleted and Numbered Lists: bnlists.md
 - Notes, Tips, Cautions, and Warnings: 
     - Best Practices for Notes, Tips, Cautions, and Warnings: notetipcautionwarn.md
     - Notes: notes.md

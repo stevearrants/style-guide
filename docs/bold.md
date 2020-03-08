@@ -8,6 +8,3 @@ Use bold type to format the following elements:
 * UI page elements in paragraphs or procedural steps
 * User input
 * Don't use bold type or strong tags for emphasis except in notes, cautions, and warnings.
-
-
-For a full list of formatting rules for commonly documented elements, including all of the elements that take bold type, see <a href="formattingqr.md" target="_blank">Formatting quick reference</a>.

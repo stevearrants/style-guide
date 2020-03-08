@@ -2,7 +2,7 @@
 
 Don't use monospaced text in headings or subheadings.
 
-Inline monospaced text
+## Monospaced Text Guidelines
 
 Format the following elements as inline monospaced font:
 
@@ -19,5 +19,3 @@ Format the following in monospaced type as a block:
 * Command line arguments in a numbered list or longer than one line
 * Configuration file text
 * API requests and responses
-
-For a full list of formatting rules for commonly documented elements, including all of the elements that take monospaced font, see [Formatting Quick Reference](formattingqr.md).
