@@ -1,1 +1,1 @@
-﻿# Documenting Third=-party Links
+﻿# Documenting Third-party and Partner Products
