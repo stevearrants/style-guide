@@ -53,17 +53,10 @@ nav:
     - Numerals or Words?: numorword.md
     - Dates and Time: dates.md
 - Symbols and Punctuation: 
-    - Ampersand: ampersand.md
-    - Apostrophe: apostrophes.md
+    - General Punctuation: Punctuation.md
     - Brackets: brackets.md
-    - Colon: colon.md
-    - Comma: comma.md
-    - Dashes: dashes.md
     - Parentheses: parens.md
     - Percent: percent.md
-    - Period: period.md
-    - Quotation Marks: quotationmark.md
-    - Slashes: slashes.md
     - Special Characters: specialchar.md
 - Jitterbit Trademarks:  
     - Trademark Attribution: tm.md
