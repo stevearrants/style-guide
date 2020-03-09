@@ -36,8 +36,7 @@ nav:
     - Writing Procedures: writeproc.md
 - Formatting Text: 
 #   - Formatting Quick Reference: formattingqr.md
-    - Bold Type: bold.md
-    - Italics: italic.md
+    - Bold  and Italic Type: bold.md
     - Monospaced Text: mono.md
 - Images: 
     - Best Practices for Images: imagebest.md
@@ -49,25 +48,13 @@ nav:
     - Best Practices for Lists: listsbp.md
     - Bulleted and Numbered Lists: bnlists.md
 - Notes, Tips, Cautions, and Warnings: 
-    - Best Practices for Notes, Tips, Cautions, and Warnings: notetipcautionwarn.md
-    - Notes: notes.md
-    - Cautions: cautions.md
-    - Tips: tips.md
-    - Warnings: warnings.md
+    - Notes, Tips, Cautions, and Warnings: notetipcautionwarning.md
 - Numbers: 
     - Numerals or Words?: numorword.md
-    - Dates: dates.md
-    - Commas and Decimals: commadec.md
-    - Fractions: fractions.md
-    - Measurements: measurements.md
-    - Numerical Ranges: ranges.md
-    - Phone Numbers: phone.md
-    - Time: time.md
-    - Versions: versions.md
-- Punctuation and Symbols: 
-    - Show Symbols in Text: symbols.md
+    - Dates and Time: dates.md
+- Symbols and Punctuation: 
     - Ampersand: ampersand.md
-    - Apostrophe: apostrophe.md
+    - Apostrophe: apostrophes.md
     - Brackets: brackets.md
     - Colon: colon.md
     - Comma: comma.md
@@ -88,6 +75,7 @@ nav:
     - UI Text Style Guidelines: uiguidelines.md
 - Additional Resources: 
     - Other Sources: othersources.md
+
 # Uses this script to do tooltips https://github.com/lsaether/md-tooltips
 # markdown_extensions:
 #     - mdtooltips
@@ -102,4 +90,4 @@ theme:
     - css
     - python
     - yaml
-    - rust
+    - javascript

@@ -1,4 +1,4 @@
-﻿# Write for All Users
+# Write for All Users
 
 Always aim to write content that all users can access and understand, regardless of background or level of ability. Make content
 accessible for all audiences, with or without disabilities. 
@@ -45,9 +45,9 @@ Precise:
 
 ## Titles and Document and Section Headings
 Headings help break up long text passages and help all readers navigate through a page. Descriptive titles and
-headings are not only useful for search engine optimization, but also help all users find information.
+headings are essential for successful searches.
 
-Sighted and screen reader users scan through headings first to figure out where they need to go. Sections
+Sighted and screen reader users scan through headings to determine where they need to go. Sections
 organized by headings are easier to parse than long sections with fewer headings. Make your headings descriptive and
 well-organized. It makes it much easier for our users to understand the documentation.
 
@@ -82,7 +82,7 @@ dialogue and important sound effects. If your video covers important visual deta
 Tables are effective at organizing and presenting information, so keep tables as simple as possible.Tables with
 bulleted or numbered lists or with merged cells present problems for screen readers. Use a non-breaking space
 instead of a blank in an empty cell. Screen readers won't skip over the cell, causing confusion. See
-[Best Practices: Tables](tablesbp.md).
+[Best Practices: Tables](tablesbp.md) for more information.
 
 ##  Lists
 Use simple lists. Use parallel construction for list items. Use one item or idea for a single list item. Consistent
@@ -91,4 +91,4 @@ patterns and simple lists won't cause problems for screen readers or confusion f
 
 ## Linking
 Links should be clear, descriptive, and meaningful. Don't add links just because they're available. Make each link
-count! Lead into each link with a description so that users can decide if that link is useful to them.
+count! Lead into each link with a description so that users can decide if that link is useful to them.  See [Best Practices: Link](linksbp.md)s for more information.

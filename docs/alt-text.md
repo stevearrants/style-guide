@@ -1,4 +1,4 @@
-# Use `alt-text` with Images
+# Use Alt-text with Images
 
 Some of our users rely on screen reader software to read our documentation. Screen readers convert the contents on a
 page into speech. All images in our documentation must have `alt-text` so the entire page is accessible through
@@ -9,7 +9,7 @@ You can find more information about website accessibility requirements on the
 [Section 508](https://www.section508.gov/) website. See also [Write for All Users](everyone.md).
 
 #### Note
-It is becoming more common that requirements or sales quotes require accessibility statements.
+It is becoming more common to see accessibility questions in requirements documents or sales quotes.
  
 ##  Best practices
 All images &mdash; screenshot, diagram, GIF, or inline image &mdash; must have alt text. For inline images, GIFs,
@@ -36,5 +36,4 @@ and complex diagrams, include adequate surrounding text so you don't place too m
 Here are some examples of good usage.
 
 ### Screenshot of an activity step:
-![This screenshot shows the options needed to complete Step 1 of the Snowflake Query activity. ](./assets/snowflake-query-activity-1.png)
-
+![This screenshot shows the options needed to complete Step 1 of the Snowflake Query activity.](snowflake-query-activity-1.png "Snowflake Query Actvity")

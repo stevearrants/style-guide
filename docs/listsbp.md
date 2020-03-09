@@ -1,4 +1,4 @@
-﻿# Best Practices for Lists
+# Best Practices for Lists
 
 Users look for lists because lists organize information in a compact, scannable format.
 
@@ -13,4 +13,4 @@ These tips will help you with creating and using lists in your documents:
 * Use parallel sentence construction. Start all lists items with verbs.
 * Avoid including links in a procedure list.
 
-We use two list types in Jitterbit documentation: bulleted lists and numbered lists.
+See [List Types](bnlists.md) for more on bulleted lists and numbered lists.

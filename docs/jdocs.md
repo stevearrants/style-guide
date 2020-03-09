@@ -1,7 +1,7 @@
-﻿# About Jitterbit Documents
+# About Jitterbit Documents
 We produce a lot of different documents at Jitterbit. The Jitterbit user documentation set
 includes step-by-step instructions, conceptual content, enablement information,
-references, troubleshooting pages, use cases, and product tutorials.
+references, troubleshooting pages, and product tutorials.
 
 Every page and every topic must have a clear focus on the user. By providing relevant
 information that guides a reader, our documents help users become
@@ -15,7 +15,7 @@ To support this goal, Jitterbit documentation follows these principles:
 * Include clear, complete, and rich examples that help users understand complicated concepts
 or complex procedures.
 
-## User-focused
+## Jitterbit Documents Are User-focused
 Readers look for content that applies to their situation, so Jitterbit documents avoid
 describing what the product or UI *does* and instead focus on what the user can *do*.
 
@@ -28,7 +28,7 @@ product *lets the user do*.
 * Consider the user's reason for using the documentation and focus the documentation on their
 goal rather than detailing every aspect of what engineering built.
 
-## Goal-oriented
+## Jitterbit Documents Are Goal-oriented
 As proud and excited as we are about the capabilities of Jitterbit, readers are more interested
 in achieving a goal. We show a user how to complete goals and solve real-world problems.
 
@@ -40,7 +40,7 @@ needs to achieve their goal.
 * Include just the information that offers value to the user in achieving what they set out
 to do. Link thoughtfully to supporting material or additional information.
 
-## Straightforward
+## Jitterbit Documents Are Straightforward
 Users don't read documentation from start to finish. They look for titles and keywords matching
 their problem or question. They scan content for information or examples.
 Jitterbit documentation has descriptive titles and tasks written in straightforward, plain
@@ -56,6 +56,6 @@ Their experience with English varies.
 For more information about writing in Jitterbit tone, see [Tone](tone.md). For help on topic
 titles, see [Document Names, Topic Titles, and Section Headings](doctitlehed.md).
 
-## Rich in examples
+## Jitterbit Documents Are Rich in Examples
 Users look for examples that illustrate new concepts or complex procedures. Look for use cases
 and examples provided by Engineering and Product. 

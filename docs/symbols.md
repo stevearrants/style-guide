@@ -1,1 +1,0 @@
-﻿# Show Symbols in Text
