@@ -87,7 +87,7 @@ instead of a blank in an empty cell. Screen readers won't skip over the cell, ca
 ##  Lists
 Use simple lists. Use parallel construction for list items. Use one item or idea for a single list item. Consistent
 patterns and simple lists won't cause problems for screen readers or confusion for readers with disabilities. See
-[Best Practices: Lists](listbp.md) for more information.
+[Best Practices: Lists](listsbp.md) for more information.
 
 ## Linking
 Links should be clear, descriptive, and meaningful. Don't add links just because they're available. Make each link

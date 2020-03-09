@@ -1,4 +1,4 @@
-﻿# Tone
+# Tone
 The way most people speak and the way they write is often very different. When we're not technical, we're informal
 and colloquial. Traditionally, technical writing is formal, dry, and exact. At Jitterbit we strive to balance that
 is casual and informal, but also direct and approachable.
@@ -10,7 +10,7 @@ professional acquaintance. Make your writing confident, friendly, and comprehens
 Here are a few guidelines you can follow to achieve a balanced tone in your writing:
 
 * Stay away from jargon or idioms. See [Use Plain Language](plainlanguage.md).
-* Write in active voice and present tense whenever possible. See [Be Active and Present](activepresent.md).
+* Write in active voice and present tense whenever possible. See [Active Voice](active.md) and [Present Tense](present.md).
 * Use contractions, such as isn't, don't, and can't. See [Contractions](contractions.md).
 * Don't use words or phrases such as "Simply choose your..." or "You can easily change your settings...".
   What's simple or easy for one might be a frustrating challenge for another.
